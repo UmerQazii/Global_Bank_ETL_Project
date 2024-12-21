@@ -1,0 +1,29 @@
+2024-07-03 15:23:50.194868: Preliminaries complete. Initiating ETL process
+2024-12-21 23:51:53.258233, Preliminaries complete. Initiating ETL process.
+)2024-12-21 23:51:55.479679, Data Extracted successfully from the wikipedia.
+)2024-12-21 23:51:55.480680, Extracttion Completed.
+)2024-12-21 23:51:55.518115, Data Transformation done now, step 2 completed.
+)2024-12-21 23:51:55.518115, Data Transformed successfully.
+)2024-12-21 23:51:55.531001, Data loaded int the CSV File.
+)2024-12-21 23:51:55.531001, DataFrame has been uploaded into CSV file on our PC.
+)2024-12-21 23:51:55.544894, Data loaded into the SQLite Database.
+)2024-12-21 23:51:55.544894, DataFrame hass been uploaded into the SQLite Database Successfully.
+)2024-12-21 23:57:53.276670, Preliminaries complete. Initiating ETL process.
+)2024-12-21 23:57:55.235681, Data Extracted successfully from the wikipedia.
+)2024-12-21 23:57:55.235681, Extracttion Completed.
+)2024-12-21 23:57:55.248247, Data Transformation done now, step 2 completed.
+)2024-12-21 23:57:55.249247, Data Transformed successfully.
+)2024-12-21 23:57:55.256764, Data loaded int the CSV File.
+)2024-12-21 23:57:55.257764, DataFrame has been uploaded into CSV file on our PC.
+)2024-12-21 23:57:55.275635, Data loaded into the SQLite Database.
+)2024-12-21 23:57:55.275635, DataFrame hass been uploaded into the SQLite Database Successfully.
+)2024-12-22 00:06:16.080102, Preliminaries complete. Initiating ETL process.
+)2024-12-22 00:06:18.209315, Data Extracted successfully from the wikipedia.
+)2024-12-22 00:06:18.209315, Extracttion Completed.
+)2024-12-22 00:06:18.221315, Data Transformation done now, step 2 completed.
+)2024-12-22 00:06:18.222316, Data Transformed successfully.
+)2024-12-22 00:06:18.228316, Data loaded int the CSV File.
+)2024-12-22 00:06:18.229297, DataFrame has been uploaded into CSV file on our PC.
+)2024-12-22 00:06:18.247294, Data loaded into the SQLite Database.
+)2024-12-22 00:06:18.248308, DataFrame hass been uploaded into the SQLite Database Successfully.
+)
